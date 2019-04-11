@@ -1,0 +1,9 @@
+​a:visited, a:link, a:hover
+{
+    text-decoration: none;
+}
+
+a {
+    color: rgb(2, 2, 2)
+   }
+ 
